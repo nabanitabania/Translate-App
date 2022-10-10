@@ -1,0 +1,11 @@
+select {
+    height: 40px;
+    width: 508px;
+    padding-left: 4px;
+    margin: 10px auto;
+    font-size: medium;
+}
+
+label {
+    font-size: large;
+}

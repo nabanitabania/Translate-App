@@ -1,0 +1,11 @@
+input {
+    padding-left: 4px;
+    height: 40px;
+    width: 500px;
+    margin: 10px auto;
+    font-size: medium;
+}
+
+label {
+    font-size: large;
+}
